@@ -1,0 +1,8 @@
+
+I. Histoire de l'IA
+
+II. Maching learning
+
+III. Deep learning et réseaux de neurones
+
+IV. Fonctionnment d'une IA générative de type chatbot
