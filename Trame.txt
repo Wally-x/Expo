@@ -1,4 +1,3 @@
-
 I. Histoire de l'IA
 
 II. Maching learning

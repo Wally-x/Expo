@@ -1,0 +1,9 @@
+INTRO:
+L’intelligence artificielle, ou IA, est un domaine de la recherche informatique qui vise à créer des machines capables de penser et d’apprendre comme des êtres humains. Dès les premiers jours de l’informatique, les chercheurs et les algorithmes ont joué un rôle essentiel dans le développement de l’IA.
+
+
+HISTOIRE:
+L’histoire de l’IA remonte aux années 1940, avec le mathématicien et logicien Alan Turing. Il est souvent considéré comme le père de l’intelligence artificielle grâce à sa machine de Turing, qui est un modèle théorique de calcul. Turing, cependant, était convaincu que les machines pourraient être programmées pour reproduire l’intelligence humaine.
+
+MACHING LEARNING:
+
