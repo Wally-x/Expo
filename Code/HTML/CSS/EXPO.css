@@ -1,13 +1,41 @@
-.page3 {
-	background-color: rgb(11,0,221);
+.frame {
+	opacity: 0;
+    transition: opacity 1s ease-out;
 	text-align: center
+}
+
+.bluebg {
+	background-color: rgb(11,0,221);
+}
+
+.frame.load {
+	opacity: 1;
 }
 
 .haut {
 	text-align: center;
+	height: 50px;
 	background-color: rgb(48, 59, 54);
 }
 
 .bas {
+	display: flex;
+    align-items: center;
+    justify-content: flex-start;
+	height: 50px;
 	background-color: rgb(48, 59, 54);
+}
+
+.bas a {
+    color: black;
+	background-color: white;
+    text-decoration: none;
+	font-size: 30px;
+}
+
+.bas a:hover {
+    color: white;
+	background-color: black;
+    text-decoration: none;
+	font-size: 30px;
 }
