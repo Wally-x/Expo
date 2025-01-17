@@ -4,6 +4,7 @@ L’intelligence artificielle, ou IA, est un domaine de la recherche informatiqu
 
 HISTOIRE:
 L’histoire de l’IA remonte aux années 1940, avec le mathématicien et logicien Alan Turing. Il est souvent considéré comme le père de l’intelligence artificielle grâce à sa machine de Turing, qui est un modèle théorique de calcul. Turing, cependant, était convaincu que les machines pourraient être programmées pour reproduire l’intelligence humaine.
+Conference 1956 / Alan Turing
 
 MACHING LEARNING:
 
