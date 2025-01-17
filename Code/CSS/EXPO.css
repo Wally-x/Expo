@@ -1,15 +1,31 @@
-body {
-	text-align: center;
-	color : white;
-	background-color : rgb(11, 0, 221);
-	font-family: verdana; 
-	font-size: 8.5pt;
-	line-height:1.5;
+body 
+{ 
+text-align: center;
+color: white;
+background-color : rgb(11, 0, 221);
+font-family: verdana; 
+font-size: 8.5pt;
+line-height:3;
+
 }
 
-a {
+a{
 	color : white;
+	font-size : 12pt;
+	font-weight : normal;
 }
+
+h2
+{
+	font-size : 15pt;
+	font-weight : normal;
+}
+
+h1
+{
+	font-weight : bold
+	text-decoration : underline
+}	
 
 .frame {
 	opacity: 0;
