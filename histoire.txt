@@ -1,10 +1,14 @@
-INTRO:
-L’intelligence artificielle, ou IA, est un domaine de la recherche informatique qui vise à créer des machines capables de penser et d’apprendre comme des êtres humains. Dès les premiers jours de l’informatique, les chercheurs et les algorithmes ont joué un rôle essentiel dans le développement de l’IA.
+INTRO: 
+L’intelligence artificielle, ou IA, est un domaine de la recherche informatique qui vise à créer des machines capables de penser et d’apprendre comme des êtres humains. Dès les premiers jours de l’informatique, les chercheurs et les algorithmes ont joué un rôle essentiel dans le développement de l’IA. 
 
-
-HISTOIRE:
+HISTOIRE: 
 L’histoire de l’IA remonte aux années 1940, avec le mathématicien et logicien Alan Turing. Il est souvent considéré comme le père de l’intelligence artificielle grâce à sa machine de Turing, qui est un modèle théorique de calcul. Turing, cependant, était convaincu que les machines pourraient être programmées pour reproduire l’intelligence humaine.
-Conference 1956 / Alan Turing
+Conference de Dartmouth 1956 proposition du terme IA par John Mc Carty. 
+Alan Turing est considéré comme le père de l'informatique et un précurseur de l'intelligence artificielle grâce à sa conception de la machine de Turing. Il a joué un rôle crucial dans la cryptanalyse durant la Seconde Guerre mondiale, notamment à Bletchley Park, où il a déchiffré les messages allemands. Sa vie a été tragiquement marquée par des persécutions en raison de son homosexualité, conduisant à son suicide en 1954.
 
 MACHING LEARNING:
 
+regression / classification - superviser / non superviser
+La régression et la classification sont des techniques d'apprentissage supervisé : la régression prédit des valeurs continues, tandis que la classification attribue des catégories discrètes.
+L'apprentissage supervisé nécessite des données étiquetées pour entraîner le modèle, alors que l'apprentissage non supervisé explore des données sans étiquettes pour identifier des motifs ou des groupes.
+Tous les modèles de Machine Learning sont classés en deux catégories : supervisé ou non supervisé. Si le modèle est un modèle supervisé, il peut-être de 2 types ou sous-catégories : modèle de régression ou de classification.
