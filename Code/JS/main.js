@@ -18,7 +18,7 @@ $(document).ready(function() {
         var element_bottom_pos = element_height + element_top_distance;
 
         if ((element_bottom_pos >= window_scrolling_distance) &&
-            (element_top_distance <= window_bottom_pos)) {
+            (element_bottom_pos <= window_bottom_pos)) {
             element.addClass('load');
         }
     }
