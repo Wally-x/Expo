@@ -22,6 +22,12 @@ $(document).ready(function() {
             element.addClass('load');
         }
     }
+	
+	function printRep() {
+		
+	}
+	
+	function nextQuestion
 
     $window.on('scroll resize', check_visibility);
     $window.trigger('scroll');
