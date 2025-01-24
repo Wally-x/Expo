@@ -14,6 +14,17 @@ a{
 	font-weight : normal;
 }
 
+
+.image2 {
+    width: 40%;  /* Réduit la largeur de l'image à 60% de son taille d'origine */
+    height: auto;  /* Garde la proportion de l'image */
+}
+
+.image3 {
+    width: 50%;  /* Réduit la largeur de l'image à 50% de son taille d'origine */
+    height: auto;  /* Garde la proportion de l'image */
+}
+
 h2
 {
 	font-size : 15pt;
