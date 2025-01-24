@@ -1,0 +1,16 @@
+I.
+Quand a été inventé le therme IA ?
+
+Qui est considéré comme étant le père de l'IA ?
+
+Quelle discipline l'IA a battu en premier ?
+L'echec
+
+II.
+
+Quels sont les différents types de maching learnig ?
+	apprentissage supervisé (régression+classification) / apprentissage non-supervisé (clustering/association)
+
+
+En quoi le maching learning diffère de la programation traditionnelle ?
+	Un algorithme de maching ne repose pas sur une suite d'instruction mais sur un apprentissage
