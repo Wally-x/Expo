@@ -10,14 +10,21 @@
 	
 	<body>
 		<div class="haut">
-			<h1>Quiz</h1>
+			<h1>Quiz !</h1>
 		</div>
 		<div class="frame">
-			<button onclick="printRep">Reponse</button>
-			<button onclick="nextQuestion">Prochaine question</button>
+			<br>
+			<div class="cadre">
+					<p id="questrep">Question1: <br> Quand à été inventé le terme IA ?</p>
+			</div>
+			<br>
+			<button id="repButton" type="button" onclick="printRep()">Reponse</button>
+			<button id="nextButton" type="button" onclick="nextQuestion()">Prochaine question</button>
+			<br>
 		</div>
 		<div class="bas">
 			<a href="index.html">Retour</a>
 		</div>
 	</body>
+
 </html>
