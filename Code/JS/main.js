@@ -36,7 +36,8 @@ function nextQuestion() {
         document.getElementById("repButton").style="display: block;";
     }
     else {
-        document.getElementById("questrep").innerHTML=`Fin`; 
+        document.getElementById("questrep").style='display: none;'
+		document.getElementById("image_fin").style='display: block;'
         document.getElementById("repButton").style="display: none;";
 
     }
